@@ -35,3 +35,14 @@ Scikit-learn
 - Environment: Jupyter Notebook
 
 
+
+### 📊 Dataset Information
+
+- EEG signals recorded from multiple sensors
+
+-- Target variable:
+
+  - 0 → Eye Open
+
+  - 1 → Eye Closed
+
