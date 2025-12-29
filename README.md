@@ -41,6 +41,15 @@ Scikit-learn
 - EEG signals recorded from multiple sensors
 
 
+
+- Target variable:
+
+  - 0 → Eye Open
+
+  - 1 → Eye Closed
+ 
+
+### Project Structure
 EEG_Eye_State_KNN/
 │
 ├── EEG_Eye_State_KNN.ipynb   # Main notebook
@@ -48,9 +57,4 @@ EEG_Eye_State_KNN/
 └── dataset                  # EEG eye state dataset
 
 
-- Target variable:
-
-  - 0 → Eye Open
-
-  - 1 → Eye Closed
 
