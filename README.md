@@ -50,11 +50,12 @@ Scikit-learn
  
 
 ### Project Structure
+```
 EEG_Eye_State_KNN/
 │
 ├── EEG_Eye_State_KNN.ipynb   # Main notebook
 ├── README.md                # Project documentation
 └── dataset                  # EEG eye state dataset
-
+```
 
 
