@@ -58,4 +58,10 @@ EEG_Eye_State_KNN/
 └── dataset                  # EEG eye state dataset
 ```
 
+### ✅ Results
 
+- Achieved good classification accuracy
+
+- bKNN effectively distinguishes between eye open and closed states
+
+- Performance depends on the value of K
