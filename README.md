@@ -2,26 +2,25 @@
 EEG Eye State Classification is a machine learning project that uses the K-Nearest Neighbors (KNN) algorithm to predict whether a person’s eyes are open or closed based on EEG signal data. The project includes data preprocessing, model training, and performance evaluation using Python.
 
 
-# 🚀 Features
-```
-EEG signal–based eye state classification
+### 🚀 Features
 
-Data preprocessing & normalization
+- EEG signal–based eye state classification
 
-KNN model implementation
+- Data preprocessing & normalization
 
-Performance evaluation using accuracy and confusion matrix
+- KNN model implementation
 
-Beginner-friendly and well-structured notebook
+- Performance evaluation using accuracy and confusion matrix
 
-```
+- Beginner-friendly and well-structured notebook
 
-```
-🛠️ Technologies Used
 
-Language: Python
 
-Libraries:
+### 🛠️ Technologies Used
+
+- Language: Python
+
+- Libraries:
 
 NumPy
 
@@ -31,8 +30,8 @@ Matplotlib / Seaborn
 
 Scikit-learn
 
-Model: K-Nearest Neighbors (KNN)
+- Model: K-Nearest Neighbors (KNN)
 
-Environment: Jupyter Notebook
+- Environment: Jupyter Notebook
 
-```
+
