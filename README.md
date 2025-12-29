@@ -40,7 +40,7 @@ Scikit-learn
 
 - EEG signals recorded from multiple sensors
 
--- Target variable:
+- Target variable:
 
   - 0 → Eye Open
 
